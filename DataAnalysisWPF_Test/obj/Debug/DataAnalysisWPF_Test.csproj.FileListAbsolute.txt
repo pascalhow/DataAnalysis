@@ -1,0 +1,9 @@
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF_Test\bin\Debug\DataAnalysisWPF_Test.dll
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF_Test\bin\Debug\DataAnalysisWPF_Test.pdb
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF_Test\bin\Debug\DataAnalysisWPF.exe
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF_Test\bin\Debug\netchartdir_cp.dll
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF_Test\bin\Debug\DataAnalysisWPF.pdb
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF_Test\obj\Debug\DataAnalysisWPF_Test.csprojResolveAssemblyReference.cache
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF_Test\obj\Debug\DataAnalysisWPF_Test.dll
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF_Test\obj\Debug\DataAnalysisWPF_Test.pdb

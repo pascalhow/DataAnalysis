@@ -1,0 +1,14 @@
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\bin\Debug\DataAnalysisWPF.exe.config
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\bin\Debug\DataAnalysisWPF.exe
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\bin\Debug\DataAnalysisWPF.pdb
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\obj\Debug\DataAnalysisWPF.csprojResolveAssemblyReference.cache
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\obj\Debug\MainWindow.g.cs
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\obj\Debug\App.g.cs
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\obj\Debug\DataAnalysisWPF_MarkupCompile.cache
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\obj\Debug\DataAnalysisWPF_MarkupCompile.lref
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\obj\Debug\MainWindow.baml
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\obj\Debug\DataAnalysisWPF.g.resources
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\obj\Debug\DataAnalysisWPF.Properties.Resources.resources
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\obj\Debug\DataAnalysisWPF.csproj.GenerateResource.Cache
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\obj\Debug\DataAnalysisWPF.exe
+C:\Users\pascalh\Documents\SoftwareDevelopment\Visual Studio 2015\DataAnalysisWPF\DataAnalysisWPF\obj\Debug\DataAnalysisWPF.pdb
